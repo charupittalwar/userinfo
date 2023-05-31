@@ -11,6 +11,6 @@ function App() {
       <UserManagement />
     </div>
   );
-}
+  }
 
 export default App;
